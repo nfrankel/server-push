@@ -1,0 +1,12 @@
+build
+
+# Package Files #
+*.jar
+*.war
+*.ear
+.classpath
+.project
+.settings
+rebel.xml
+twitter4j.properties
+.DS_Store
